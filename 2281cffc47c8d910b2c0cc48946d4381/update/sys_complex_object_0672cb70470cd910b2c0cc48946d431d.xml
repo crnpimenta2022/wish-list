@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4272cb70ee0cd9103cab715a162a011d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>2281cffc47c8d910b2c0cc48946d4381</scope_name>
+        <serialized_content>{"FlowDesigner:FD4272cb70ee0cd9103cab715a162a011d":{},"FlowDesigner:FD4272cb70ee0cd9103cab715a162a011d.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"c02cc701-f528-4621-9b9a-27fecffe304a\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD4272cb70ee0cd9103cab715a162a011d\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>loic</sys_created_by>
+        <sys_created_on>2022-06-10 13:59:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0672cb70470cd910b2c0cc48946d431d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD4272cb70ee0cd9103cab715a162a011d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DocIntel Flow Spoke" source="x_snc_di_spoke">2281cffc47c8d910b2c0cc48946d4381</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DocIntel Flow Spoke">2281cffc47c8d910b2c0cc48946d4381</sys_scope>
+        <sys_update_name>sys_complex_object_0672cb70470cd910b2c0cc48946d431d</sys_update_name>
+        <sys_updated_by>loic</sys_updated_by>
+        <sys_updated_on>2022-06-10 13:59:24</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
